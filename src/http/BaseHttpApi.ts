@@ -16,7 +16,7 @@ const debugLog = debug('fblib')
  * User agent spoofing the mobile Messenger app (version 148.0.0.20.381)
  */
 const USER_AGENT =
-    'Facebook plugin / LIBFB-JS / [FBAN/Orca-Android;FBAV/148.0.0.20.381;FBPN/com.facebook.orca;FBLC/en_US;FBBV/256002347743983]'
+    'Facebook plugin / LIBFB-JS / [FBAN/MessengerDesktop;FBAV/215.0.0.10.211;FBDV/iMac21,1;FBSN/darwin;FBSV/14.6.1;FBSC/arm64;FBLC/en_GB;FBBV/616513476;FBSS/1;FBID/desktop;FBWS/0;MDBeta/0;MDMas/0;MDZeratul/1]'
 /**
  * ¯\\_(ツ)_/¯
  */

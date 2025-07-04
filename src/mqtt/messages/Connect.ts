@@ -7,7 +7,7 @@ import * as Payloads from '../payloads'
 import { MessageType } from './MessageTypes'
 
 const USER_AGENT =
-    'Facebook plugin / LIBFB-JS / [FBAN/Orca-Android;FBAV/148.0.0.5.83;FBPN/com.facebook.orca;FBLC/en_US;FBBV/26040814]'
+    'Facebook plugin / LIBFB-JS / [FBAN/MessengerDesktop;FBAV/215.0.0.10.211;FBDV/iMac21,1;FBSN/darwin;FBSV/14.6.1;FBSC/arm64;FBLC/en_GB;FBBV/616513476;FBSS/1;FBID/desktop;FBWS/0;MDBeta/0;MDMas/0;MDZeratul/1]'
 
 /**
  * Assembles a connect messages sent just after a TLS connection is established.

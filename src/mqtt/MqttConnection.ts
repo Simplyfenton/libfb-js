@@ -37,7 +37,7 @@ export default class MqttConnection extends EventEmitter {
   async connect () {
     await new Promise((resolve, reject) => {
       this.socket = TLSConnect({
-        host: 'mqtt.facebook.com',
+        host: 'edge-mqtt.facebook.com',
         port: 443
       })
       this.socket.on('secureConnect', resolve)
